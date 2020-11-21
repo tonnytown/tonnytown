@@ -1,16 +1,304 @@
-### Hi there 👋
-
-<!--
-**tonnytown/tonnytown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CAILLOU" tvg-logo="" group-title="24/7",24/7  CAILLOU
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/872
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",24/7  CORAJE EL PERRO COBARDE
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/873
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTOS GREEM" tvg-logo="" group-title="24/7",24/7  CUENTOS GREEM
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/874
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/875
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DRAGON BALL 1984" tvg-logo="" group-title="24/7",24/7  DRAGON BALL 1984
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/876
+#EXTINF:-1 tvg-id="" tvg-name="24/7  LOS SIMPSON" tvg-logo="" group-title="24/7",24/7  LOS SIMPSON
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/877
+#EXTINF:-1 tvg-id="" tvg-name="24/7  SOUTH PARK" tvg-logo="" group-title="24/7",24/7  SOUTH PARK
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/878
+#EXTINF:-1 tvg-id="" tvg-name="24/7  THE WALKING DEAD" tvg-logo="" group-title="24/7",24/7  THE WALKING DEAD
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/879
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/880
+#EXTINF:-1 tvg-id="" tvg-name="24/7 AÃ‘OS MARAVILLOSOS 1988" tvg-logo="" group-title="24/7",24/7 AÃ‘OS MARAVILLOSOS 1988
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BARNY Y SUS AMIGOS" tvg-logo="" group-title="24/7",24/7 BARNY Y SUS AMIGOS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/882
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BATMAN 1966 RETRO" tvg-logo="" group-title="24/7",24/7 BATMAN 1966 RETRO
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/883
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/884
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BREAKING  BAD" tvg-logo="" group-title="24/7",24/7 BREAKING  BAD
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/885
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/887
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CASO CERRADO "SEXUALIDAD"" tvg-logo="" group-title="24/7",24/7 CASO CERRADO "SEXUALIDAD"
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/888
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: MIAMI" tvg-logo="" group-title="24/7",24/7 CSI: MIAMI
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/889
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/890
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/891
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON  BALL SUPER" tvg-logo="" group-title="24/7",24/7 DRAGON  BALL SUPER
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/892
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT 1996" tvg-logo="" group-title="24/7",24/7 DRAGON BALL GT 1996
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/893
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z 1989" tvg-logo="" group-title="24/7",24/7 DRAGON BALL Z 1989
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El AvispÃ³n Verde" tvg-logo="" group-title="24/7",24/7 El AvispÃ³n Verde
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/895
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/896
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAVO DEL 8" tvg-logo="" group-title="24/7",24/7 EL CHAVO DEL 8
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/897
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/898
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL COYOTE Y CORRE CAMINOS" tvg-logo="" group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/899
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL PATON DEL MAL" tvg-logo="" group-title="24/7",24/7 EL PATON DEL MAL
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/900
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL SEÃ‘OR DE LOS CIELOS" tvg-logo="" group-title="24/7",24/7 EL SEÃ‘OR DE LOS CIELOS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/901
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUTURAMA 1999" tvg-logo="" group-title="24/7",24/7 FUTURAMA 1999
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/902
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HAPPY TREE FRIENDS" tvg-logo="" group-title="24/7",24/7 HAPPY TREE FRIENDS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/903
+#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/904
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÃ‰ROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÃ‰ROES EN PIJAMAS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/905
+#EXTINF:-1 tvg-id="" tvg-name="24/7 JUEGO DE TRONOS" tvg-logo="" group-title="24/7",24/7 JUEGO DE TRONOS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/906
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/907
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA FAMILIA MONSTERS 1964" tvg-logo="" group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/908
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA HORA PICO" tvg-logo="" group-title="24/7",24/7 LA HORA PICO
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/909
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA PANTERA ROSA" tvg-logo="" group-title="24/7",24/7 LA PANTERA ROSA
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/910
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA RISA EN VACIONES" tvg-logo="" group-title="24/7",24/7 LA RISA EN VACIONES
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/911
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/912
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LAZY TOWN" tvg-logo="" group-title="24/7",24/7 LAZY TOWN
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/913
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/914
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LOS LOCOS ADDAMS" tvg-logo="" group-title="24/7",24/7 LOS LOCOS ADDAMS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/915
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LUIS MIGUEL LA SERIE 2018" tvg-logo="" group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/916
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/917
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/918
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/919
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="" group-title="24/7",24/7 Peliculas de terror
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/920
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS ESTRENOS 2018
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/921
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PEPPA PIG" tvg-logo="" group-title="24/7",24/7 PEPPA PIG
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/922
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PINKY y CEREBRO" tvg-logo="" group-title="24/7",24/7 PINKY y CEREBRO
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/923
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PokÃ©mon" tvg-logo="" group-title="24/7",24/7 PokÃ©mon
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/924
+#EXTINF:-1 tvg-id="" tvg-name="24/7 POWER RANGERS" tvg-logo="" group-title="24/7",24/7 POWER RANGERS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/925
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOTECH" tvg-logo="" group-title="24/7",24/7 ROBOTECH
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/926
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SAILOR MOON" tvg-logo="" group-title="24/7",24/7 SAILOR MOON
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/927
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 1
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/928
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank MÃ©xico TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank MÃ©xico TEP 2
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/929
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SHERA" tvg-logo="" group-title="24/7",24/7 SHERA
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/930
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SMALLVILLE" tvg-logo="" group-title="24/7",24/7 SMALLVILLE
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/931
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SPIDER-MAN" tvg-logo="" group-title="24/7",24/7 SPIDER-MAN
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/932
+#EXTINF:-1 tvg-id="" tvg-name="24/7 STRANGER THINGS" tvg-logo="" group-title="24/7",24/7 STRANGER THINGS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/933
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SUPER CAMPEONES" tvg-logo="" group-title="24/7",24/7 SUPER CAMPEONES
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/934
+#EXTINF:-1 tvg-id="" tvg-name="24/7 THUNDERCAST" tvg-logo="" group-title="24/7",24/7 THUNDERCAST
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/935
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="" group-title="24/7",24/7 XMEN ANIME
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/936
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  DINAMITA SD*" tvg-logo="" group-title="CINEMA",CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/1
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA:  TCM SD*" tvg-logo="" group-title="CINEMA",CINEMA:  TCM SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/2
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AMC SD*" tvg-logo="" group-title="CINEMA",CINEMA: AMC SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/3
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: AZTECA CINEMA" tvg-logo="" group-title="CINEMA",CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/4
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE CANAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/5
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINE LATINO SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/6
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CINEMAX SD*" tvg-logo="" group-title="CINEMA",CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/7
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: CLARO CINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA PLUS" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/9
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: DE PELICULA TP MX" tvg-logo="" group-title="CINEMA",CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/10
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX ACTION SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/11
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX CLASICO SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/14
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX COMEDY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/15
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX FAMYLY SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/16
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX MOVIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/17
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: FOX SERIES SD*" tvg-logo="" group-title="CINEMA",CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/18
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN PREMIER 1" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/19
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: GOLDEN SD*" tvg-logo="" group-title="CINEMA",CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/20
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 1 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/21
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO 2 SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/22
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Family SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Family SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/23
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO MUNDI" tvg-logo="" group-title="CINEMA",CINEMA: HBO MUNDI
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/24
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO Plus SD*" tvg-logo="" group-title="CINEMA",CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/25
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: HBO XTREAME SD *" tvg-logo="" group-title="CINEMA",CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/26
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTICINEMA SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/27
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: MULTIPREMIER SD*" tvg-logo="" group-title="CINEMA",CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/28
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: PARAMOUNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/29
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SPACE SD*" tvg-logo="" group-title="CINEMA",CINEMA: SPACE SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/30
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: STUDIO UNIVERSAL SD*" tvg-logo="" group-title="CINEMA",CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/31
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: SYFY*" tvg-logo="" group-title="CINEMA",CINEMA: SYFY*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/32
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA: TNT SD*" tvg-logo="" group-title="CINEMA",CINEMA: TNT SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/33
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ANIMAL PLANET SD*" tvg-logo="" group-title="CULTURA",CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/34
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CHANNEL SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/35
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY CIVILIZATION SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/36
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY H&H SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/37
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY SCIENCE SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/38
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY THEATHER HD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/39
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: DISCOVERY TURBO SD*" tvg-logo="" group-title="CULTURA",CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/40
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: H2 SD*" tvg-logo="" group-title="CULTURA",CULTURA: H2 SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/41
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: HISTORY SD*" tvg-logo="" group-title="CULTURA",CULTURA: HISTORY SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/42
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: ID SD*" tvg-logo="" group-title="CULTURA",CULTURA: ID SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/43
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NAT GEO SD*" tvg-logo="" group-title="CULTURA",CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/44
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: NATGEO WILD  SD*" tvg-logo="" group-title="CULTURA",CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/45
+#EXTINF:-1 tvg-id="" tvg-name="CULTURA: TLC SD*" tvg-logo="" group-title="CULTURA",CULTURA: TLC SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/46
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE GALAVISION" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE GALAVISION
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/48
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ANTENA3 SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/49
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: AZ MUNDO SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/50
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: COMEDY CENTRAL HD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/51
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DHE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DHE SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/52
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: DISTRITO COMEDIA TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/53
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: E! SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: E! SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/54
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: EL GOURMET SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/55
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: ESTRELLATV" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: ESTRELLATV
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/65
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FASHION ONE SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/56
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FILM & ARTS SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/57
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: FOOD NETWORK TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/58
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: HOLA !TV SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/59
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: LIFE TIME SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/60
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: MAS CHIC SD*" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/61
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: TL NOVELAS TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/62
+#EXTINF:-1 tvg-id="" tvg-name="ENTRE: UNICABLE TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/63
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO: FOX LIFE TP MX" tvg-logo="" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/64
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="ENTRETENIMIENTO",FOX LIFE
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/66
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Baby TV*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Baby TV*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/80
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: BIT ME TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: BIT ME TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/89
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Boomerang*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/81
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Discovery Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/82
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney JR SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/84
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/83
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Disney XD SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/85
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nat Geo Kids SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/86
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nick Jr SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/87
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: Nickelodeon SD*" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/88
+#EXTINF:-1 tvg-id="" tvg-name="NIÃ‘OS: TOONCAST TP MX" tvg-logo="" group-title="NIÃ‘OS",NIÃ‘OS: TOONCAST TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/90
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: A&E SD*" tvg-logo="" group-title="SERIES",SERIE: A&E SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/67
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: A3SERIES" tvg-logo="" group-title="SERIES",SERIE: A3SERIES
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/68
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: AXN SD*" tvg-logo="" group-title="SERIES",SERIE: AXN SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/69
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: EURO Channel SD*" tvg-logo="" group-title="SERIES",SERIE: EURO Channel SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/70
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FOX SD *" tvg-logo="" group-title="SERIES",SERIE: FOX SD *
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/71
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX Movies SD*" tvg-logo="" group-title="SERIES",SERIE: FX Movies SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/72
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FX SD*" tvg-logo="" group-title="SERIES",SERIE: FX SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/73
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: FXM TP MX" tvg-logo="" group-title="SERIES",SERIE: FXM TP MX
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/74
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: SONY SD*" tvg-logo="" group-title="SERIES",SERIE: SONY SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/76
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: TNT SERIES*" tvg-logo="" group-title="SERIES",SERIE: TNT SERIES*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/77
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: UNIVERSAL TV SD*" tvg-logo="" group-title="SERIES",SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/78
+#EXTINF:-1 tvg-id="" tvg-name="SERIES: WARNER SD*" tvg-logo="" group-title="SERIES",SERIES: WARNER SD*
+http://zufreelist.net:8080/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/zsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvarzsfgvar/79
+#EXTINF:-1 tvg-id="" tvg-name="007: AL SERVICIO SECRETO DE SU MAJESTAD" tvg-logo="" group-title="*PELICULAS 
